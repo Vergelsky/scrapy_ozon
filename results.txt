@@ -1,0 +1,14 @@
+0                 
+Android 13.x          22
+Android 13            17
+Android без версии     9
+система не указана     9
+Android 14             7
+iOS 16                 7
+iOS 15                 6
+iOS 17                 6
+iOS 13                 6
+iOS 14                 5
+iOS без версии         4
+Android 12.x           1
+Android 11.x           1
